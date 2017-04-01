@@ -1,0 +1,38 @@
+﻿.btn-outline-fb {
+  color: #fff;
+  background-image: none;
+  background-color:#fffc00 ;
+  border-color: #fffc00;
+}
+
+.btn-outline-fb:hover {
+  color: #fffc00;
+  background-color:transparent;
+  border-color: #fffc00;
+}
+
+.btn-outline-tw {
+  color: #fff;
+  background-image: none;
+  background-color: #00aced;
+  border-color: #00aced;
+}
+
+.btn-outline-tw:hover {
+  color: #00aced;
+  background-color: transparent;
+  border-color: #00aced;
+}
+
+.btn-outline-in {
+  color: #fff;
+  background-image: none;
+  background-color: #517fa4;
+  border-color: #517fa4;
+}
+
+.btn-outline-in:hover {
+  color: #517fa4;
+  background-color: transparent;
+  border-color: #517fa4;
+}
